@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FriendToTalkAdminApi", "FriendToTalkAdminApi\FriendToTalkAdminApi.csproj", "{EF4B7F7A-4101-414E-9E9E-747C2C16CAF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FriendToTalkAdminBAL", "FriendToTalkAdminBAL\FriendToTalkAdminBAL.csproj", "{4F03522F-6CBF-4FE9-96DD-CDC99AF300E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FriendToTalkAdminDAL", "FriendToTalkAdminDAL\FriendToTalkAdminDAL.csproj", "{A0B677E7-BA81-4EE8-BAF8-5C59F9D6F971}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FriendToTalkAdminModel", "FriendToTalkAdminModel\FriendToTalkAdminModel.csproj", "{0122B4B4-B972-4208-ABA6-AA6FE3908905}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF4B7F7A-4101-414E-9E9E-747C2C16CAF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF4B7F7A-4101-414E-9E9E-747C2C16CAF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF4B7F7A-4101-414E-9E9E-747C2C16CAF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF4B7F7A-4101-414E-9E9E-747C2C16CAF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F03522F-6CBF-4FE9-96DD-CDC99AF300E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F03522F-6CBF-4FE9-96DD-CDC99AF300E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F03522F-6CBF-4FE9-96DD-CDC99AF300E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F03522F-6CBF-4FE9-96DD-CDC99AF300E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0B677E7-BA81-4EE8-BAF8-5C59F9D6F971}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0B677E7-BA81-4EE8-BAF8-5C59F9D6F971}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0B677E7-BA81-4EE8-BAF8-5C59F9D6F971}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0B677E7-BA81-4EE8-BAF8-5C59F9D6F971}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0122B4B4-B972-4208-ABA6-AA6FE3908905}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0122B4B4-B972-4208-ABA6-AA6FE3908905}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0122B4B4-B972-4208-ABA6-AA6FE3908905}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0122B4B4-B972-4208-ABA6-AA6FE3908905}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

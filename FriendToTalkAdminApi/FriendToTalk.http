@@ -1,0 +1,8 @@
+@FriendToTalk_HostAddress = http://localhost:3232
+
+
+### GET request to example server
+GET {{FriendToTalk_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

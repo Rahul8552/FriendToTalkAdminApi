@@ -1,0 +1,7 @@
+/Users/kurunjaoffice/Documents/GitHub/FriendToTalkAdminApi/FriendToTalkAdminModel/obj/Debug/net8.0/FriendToTalkAdminModel.csproj.AssemblyReference.cache
+/Users/kurunjaoffice/Documents/GitHub/FriendToTalkAdminApi/FriendToTalkAdminModel/obj/Debug/net8.0/FriendToTalkAdminModel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kurunjaoffice/Documents/GitHub/FriendToTalkAdminApi/FriendToTalkAdminModel/obj/Debug/net8.0/FriendToTalkAdminModel.AssemblyInfoInputs.cache
+/Users/kurunjaoffice/Documents/GitHub/FriendToTalkAdminApi/FriendToTalkAdminModel/obj/Debug/net8.0/FriendToTalkAdminModel.AssemblyInfo.cs
+/Users/kurunjaoffice/Documents/GitHub/FriendToTalkAdminApi/FriendToTalkAdminModel/obj/Debug/net8.0/FriendToTalkAdminModel.csproj.CoreCompileInputs.cache
+/Users/kurunjaoffice/Documents/GitHub/FriendToTalkAdminApi/FriendToTalkAdminModel/obj/Debug/net8.0/FriendToTalkAdminModel.MvcApplicationPartsAssemblyInfo.cs
+/Users/kurunjaoffice/Documents/GitHub/FriendToTalkAdminApi/FriendToTalkAdminModel/obj/Debug/net8.0/FriendToTalkAdminModel.MvcApplicationPartsAssemblyInfo.cache
